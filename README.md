@@ -1,5 +1,3 @@
-print(1 + 1) // 3
-
 😎
 - 현실적인 망상가
 - 평범한 건 거부해
@@ -17,6 +15,7 @@ print(1 + 1) // 3
 - 자바스크립트 기반 웹 개발
 - 알고리즘
 - open API를 활용한 프로젝트
+- https://thoughthrough.tistory.com/
 
 <!---
 newbieJanghan/newbieJanghan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
