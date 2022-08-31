@@ -7,14 +7,11 @@
 
 🤑
 - 플랫폼 서비스
-- 클라우드 서비스
 - 데이터 처리
 
 💻
-- node.js 기반 웹 개발
-- 알고리즘
-- open API를 활용한 프로젝트
-- https://thoughthrough.tistory.com/
+- node.js 기반 backend 개발
+- 삽질 일기: https://thoughthrough.tistory.com/
 
 <!---
 newbieJanghan/newbieJanghan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
