@@ -1,17 +1,19 @@
 ## Hi There!
 
-I'm janghan, web developer from Seoul, Korea who is passionated in code quality, architecture, infra.
-Studying OOP with Nest.js & Java Spring nowadays.
-I was teacher few years ago and also interested in Education Technology.
+I'm **janghan**, **web developer** from Seoul, **Korea**:kr: who is passionated in code quality, architecture, infra. \
+Studying OOP with **Nest.js** & **Java Spring** nowadays. \
+Funny things, I was a teacher few years ago! Somedays, I hope to contirubte Education Technology.
+
 
 ## Skills
-**Language**
+**Language** 
 
 
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-**Databases**
+
+**Databases** 
 
 
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -55,3 +57,9 @@ I was teacher few years ago and also interested in Education Technology.
 ![image](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![image](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![image](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white)
+
+## Contact
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/%EC%9E%A5%ED%95%9C-%EB%B0%B0-655476233)
+![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  bjh4135@gmail.com 
+
