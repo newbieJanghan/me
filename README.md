@@ -1,6 +1,6 @@
 ## Hi There!
 
-I'm **janghan**, **web developer** from Seoul, **Korea**:kr: who is passionated in code quality, architecture, infra. \
+I'm **janghan**, **web developer** from Seoul, **Korea** ![image](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/kr.png) who is passionated in code quality, architecture, infra. \
 Studying OOP with **Nest.js** & **Java Spring** nowadays. \
 Funny things, I was a teacher few years ago! Somedays, I hope to contirubte Education Technology.
 
