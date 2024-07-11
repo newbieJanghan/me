@@ -1,9 +1,6 @@
-## Hi there!"
+## Hi there!
 
 I'm **Janghan**.   I'm a **web developer** based in Seoul, Korea 🇰🇷 with a passion for code quality, architecture, and infrastructure.
-
-:hi:
-
 
 Currently, I'm exploring Object-Oriented Programming (OOP) concepts with **NestJS** and **Java Spring**. 
 
