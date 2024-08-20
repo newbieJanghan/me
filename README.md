@@ -1,10 +1,6 @@
 ## Hi there!
 
-I'm **Janghan**.   I'm a **web developer** based in Seoul, Korea 🇰🇷 with a passion for code quality, architecture, and infrastructure.
-
-Currently, I'm exploring Object-Oriented Programming (OOP) concepts with **NestJS** and **Java Spring**. 
-
-Interestingly, I used to be a teacher!  I hope to leverage my skills to contribute to Educational Technology someday. ‍
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=newbieJanghan&show_icons=true&theme=radical)
 
 ## Skills
 
